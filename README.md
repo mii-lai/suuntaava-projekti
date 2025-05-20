@@ -10,7 +10,7 @@ Node.js-sovellus, joka muodostaa yhteyden **MQTT-välittäjään** ja tallentaa 
 
 ```bash
 git clone https://github.com/mii-lai/suuntaava-projekti.git
-cd clientdemo
+cd suuntaava-projekti
 ```
 
 ### 2. Asenna riippuvuudet
